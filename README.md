@@ -33,6 +33,5 @@ This project follows the **Client-Server model** strictly to ensure gameplay int
 * **SteamCore Integration:** Utilizes the Steam Overlay for seamless multiplayer connectivity without needing dedicated servers for the prototype phase.
 
 ## 📸 Preview
-
-- [Preview 1](https://raw.githubusercontent.com/NeelFrostrain/UMS/refs/heads/dev/imgs/Screenshot_2026-01-15_002931.png?token=GHSAT0AAAAAADT6BSFGFH4SJ6GWJ4UYVQGU2LVBKYQ)
-- [Preview 2](https://raw.githubusercontent.com/NeelFrostrain/UMS/refs/heads/dev/imgs/image.png?token=GHSAT0AAAAAADT6BSFHSJVCBDWXHGI22G4A2LVBLHQ)
+<img src="imgs/screenshot.png" width="400">
+<img src="imgs/image.png" width="400">
